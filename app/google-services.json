@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "206905360677",
+    "firebase_url": "https://milkdairy-7215b.firebaseio.com",
+    "project_id": "milkdairy-7215b",
+    "storage_bucket": "milkdairy-7215b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206905360677:android:d4d7a817de965f4dfc5acc",
+        "android_client_info": {
+          "package_name": "com.example.milkdairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206905360677-pfpr5lkql3gg85v51t6tv6ia1e76e27d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.milkdairy",
+            "certificate_hash": "0931438d90d9e388eb5222feac39eee23c2c0806"
+          }
+        },
+        {
+          "client_id": "206905360677-iaa8afd55hbvb3ce3mmtld9mcbf1ko35.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVnkO_apFlfZZSwn5l5glcn6__k4F33Xo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206905360677-iaa8afd55hbvb3ce3mmtld9mcbf1ko35.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

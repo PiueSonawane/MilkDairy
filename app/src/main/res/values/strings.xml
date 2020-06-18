@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MilkDairy</string>
+    <string name="enter_user_name">Enter user name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="log_in">Log In</string>
+    <string name="sign_in">Sign In</string>
+    <string name="forget_password">Forget password</string>
+    <string name="singin">SingIn</string>
+    <string name="splashscreen">Splashscreen</string>
+</resources>
